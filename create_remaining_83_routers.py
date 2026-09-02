@@ -15,8 +15,8 @@ from datetime import datetime
 # ============================================
 
 API_BASE_URL = "https://home.mawingunetworks.com/api/2.0"
-API_KEY = "6b16484d021797bb5be96ffa58ff1a43"        # Replace with your actual key
-API_SECRET = "da33ebb5105db0fd254c52e279b23931"  # Replace with your actual secret
+API_KEY = "API Key"        # Replace with your actual key
+API_SECRET = "Secret API"  # Replace with your actual secret
 
 # Input files
 REGION_MAP_FILE = 'region_map.csv'
