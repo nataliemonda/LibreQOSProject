@@ -4,8 +4,8 @@ import json
 
 BASE_URL = "https://home.mawingunetworks.com/api/2.0"
 
-KEY = "6b16484d021797bb5be96ffa58ff1a43"
-SECRET = "0b5bd6d8ae83ac5b9ce7316aef12dd0a"
+KEY = "API Key"
+SECRET = "Secret Key"
 
 payload = {
     "title": "ABDS_BRASS_IPOE",
