@@ -15,8 +15,8 @@ from datetime import datetime
 # ============================================
 
 API_BASE_URL = "https://home.mawingunetworks.com/api/2.0"
-API_KEY = "6b16484d021797bb5be96ffa58ff1a43"        # Replace with your actual key
-API_SECRET = "abfac73388e5e11495fa49e311f6e05b"  # Replace with your actual secret
+API_KEY = "API Key"        # Replace with your actual key
+API_SECRET = "Secret Key"  # Replace with your actual secret
 
 # Default values from your existing router (MAC_MANZ_BRASS_IPOE)
 DEFAULT_LOCATION_ID = 2  # Location: Machakos
