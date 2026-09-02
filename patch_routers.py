@@ -13,8 +13,8 @@ import json
 # ============================================
 
 API_BASE_URL = "https://home.mawingunetworks.com/api/2.0"
-API_KEY = "6b16484d021797bb5be96ffa58ff1a43"        # Replace with your actual key
-API_SECRET = "ec5d547b49041728acf6392d436e0b25"  # Replace with your actual secret
+API_KEY = "API Key"        # Replace with your actual key
+API_SECRET = "Secret Key"  # Replace with your actual secret
 
 # Default location ID - CHANGE THIS to match your existing routers
 DEFAULT_LOCATION_ID = 2  # Try 2 first (from existing routers)
