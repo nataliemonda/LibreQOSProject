@@ -4,8 +4,8 @@ import csv
 
 url = "https://home.mawingunetworks.com/api/2.0/admin/networking/routers-sectors"
 
-key = "9687bab6a5e7a924de376513a691f25e"
-secret = "a69eedd58d7614f2455667c2f263743f"
+key = "API Key"
+secret = "Secret API"
 
 response = requests.get(
     url,
