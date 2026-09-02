@@ -3,8 +3,8 @@ from requests.auth import HTTPBasicAuth
 
 BASE_URL = "https://home.mawingunetworks.com/api/2.0"
 
-KEY = "6b16484d021797bb5be96ffa58ff1a43"
-SECRET = "9b29bfc68ebc9729befa0fff5b0e4d32"
+KEY = "API Key"
+SECRET = "Secret Key"
 
 search = input("Search: ").upper()
 
