@@ -4,8 +4,8 @@ import csv
 
 url = "https://home.mawingunetworks.com/api/2.0/admin/networking/monitoring"
 
-key = "9687bab6a5e7a924de376513a691f25e"
-secret = "dfdec1ee621ccf0b7e3112f3ae571a27"
+key = "API Key"
+secret = "Secret API"
 
 response = requests.get(
     url,
