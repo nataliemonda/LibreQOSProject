@@ -4,8 +4,8 @@ import json
 
 BASE_URL = "https://home.mawingunetworks.com/api/2.0"
 
-KEY = "6b16484d021797bb5be96ffa58ff1a43"
-SECRET = "ac0ecba1f5f1b09c6ac9789705768299"
+KEY = "API Key"
+SECRET = "Secret API"
 
 ROUTER_ID = 18   # MAC_MANZ_BRASS_IPOE
 
