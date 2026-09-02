@@ -4,8 +4,8 @@ import csv
 
 BASE_URL = "https://home.mawingunetworks.com/api/2.0"
 
-KEY = "9687bab6a5e7a924de376513a691f25e"
-SECRET = "f01d86946e9ab05b428a65be1e369fb5"
+KEY = "API Key"
+SECRET = "Secret API"
 
 # Load monitoring devices
 response = requests.get(
