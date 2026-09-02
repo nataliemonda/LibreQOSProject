@@ -16,8 +16,8 @@ from datetime import datetime
 # ============================================
 
 API_BASE_URL = "https://home.mawingunetworks.com/api/2.0"
-API_KEY = "API Key"        # Replace with your actual key
-API_SECRET = "Secret API"  # Replace with your actual secret
+API_KEY = "6b16484d021797bb5be96ffa58ff1a43"        # Replace with your actual key
+API_SECRET = "01bbb20c855712e65c4ab523eaa250b4"  # Replace with your actual secret
 
 # Input file
 PARENT_PLAN_FILE = 'parent_creation_plan.csv'
